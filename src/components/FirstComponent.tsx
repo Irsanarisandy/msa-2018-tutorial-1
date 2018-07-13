@@ -4,7 +4,7 @@ export default class FirstComponent extends React.Component<{}> {
     public render() {
         return (
             <div className="centreText">
-                <h1>( ͡° ͜ʖ ͡°)</h1>
+                <h1>(▀̿Ĺ̯▀̿ ̿)</h1>
             </div>
         );
     }
